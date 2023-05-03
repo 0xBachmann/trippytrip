@@ -8,6 +8,7 @@
 - central asia
   - starting from here?
 - india
+  - plus nepal, tibet etc
 - southeast asia
 - north africa 
   - going downwards
