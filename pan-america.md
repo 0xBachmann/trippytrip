@@ -1,0 +1,2 @@
+  - [pan american highway blogpost](https://www.adventurism.tv/blog/2021/7/18/can-you-drive-a-car-from-north-america-to-south-america#:~:text=The%20official%20section%20from%20Laredo,of%2028%20days%20to%20complete.)
+  - [car in chile](https://packtolife.com/how-to-buy-a-car-in-chile/)
