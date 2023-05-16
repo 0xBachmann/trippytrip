@@ -1,2 +1,34 @@
   - [pan american highway blogpost](https://www.adventurism.tv/blog/2021/7/18/can-you-drive-a-car-from-north-america-to-south-america#:~:text=The%20official%20section%20from%20Laredo,of%2028%20days%20to%20complete.)
   - [car in chile](https://packtolife.com/how-to-buy-a-car-in-chile/)
+
+# TODO
+- [ ] car 
+  - jonas & sam relatives in chile
+- [ ] climbing gear
+  - crash pads?
+- [ ] equipment
+  - rainjacket
+  - hiking boots
+  - warm clothes (jacket)
+  - big backpack
+- [ ] camping gear
+  - buy there?
+  - tents
+  - matts
+  - cooking utensils
+- [ ] Visa
+  - inform ourselfs
+  - apply
+- [ ] Flight
+  - check prices and when cheap
+  - 2 ways needed from visa?
+  - cheaper 2way and once top to bottom
+  - first by train to somewhere else?
+  - look at prices with vpn
+- [ ] Pass & ID
+- [ ] International Drivers Licence
+- [ ] cleaning/washing?
+- [ ] what to watch for sure?
+  - search for destination each
+- [ ] when to leave?
+- [ ] take advanced NumCSE together?
