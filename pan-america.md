@@ -6,6 +6,9 @@
   - jonas & sam relatives in chile
 - [ ] climbing gear
   - crash pads?
+  - quickdraws
+  - multipitch gear?
+    - practice
 - [ ] equipment
   - rainjacket
   - hiking boots
