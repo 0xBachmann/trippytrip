@@ -35,3 +35,4 @@
   - search for destination each
 - [ ] when to leave?
 - [ ] take advanced NumCSE together?
+- [ ] darien gap?
