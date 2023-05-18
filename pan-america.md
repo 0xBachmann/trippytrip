@@ -4,6 +4,7 @@
 # TODO
 - [ ] car 
   - jonas & sam relatives in chile
+  - insurance
 - [ ] climbing gear
   - crash pads?
   - quickdraws
