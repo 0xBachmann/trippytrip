@@ -11,6 +11,7 @@
   - quickdraws
   - multipitch gear?
     - practice
+  - portable hang tool
 - [ ] equipment
   - rainjacket
   - hiking boots
