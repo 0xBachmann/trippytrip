@@ -53,3 +53,5 @@
 - [ ] after 17.02.2024
 - [ ] where to buy stuff
 - [ ] how doeas sophia survive eth without us
+- [ ] talk about route together
+  - biggest attractions?
