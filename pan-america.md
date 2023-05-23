@@ -5,13 +5,17 @@
 
 # TODO
 - [ ] car   - jonas & sam relatives chile
+  -  ask about roads
   - insurance
 - [ ] climbing gear
   - crash pads?
+    - on the roof -> aerodynamics?
+    - even a lot of boulders down south?
   - quickdraws
   - multipitch gear?
     - practice
   - portable hang tool
+  - buy here there?
 - [ ] equipment
   - rainjacket
   - hiking boots
@@ -25,18 +29,27 @@
 - [ ] Visa
   - inform ourselfs
   - apply
+  - also when to leave
+- [ ] vaccinations
 - [ ] Flight
   - check prices and when cheap
-  - 2 ways needed from visa?
+  - 2 ways needed for Visa?
+    - cancel afterwards
   - cheaper 2way and once top to bottom
   - first by train to somewhere else?
   - look at prices with vpn
 - [ ] Pass & ID
 - [ ] International Drivers Licence
+  - multiple ones!
 - [ ] cleaning/washing?
+  - reise waschbecken
+  - also for clothes
 - [ ] what to watch for sure?
   - search for destination each
 - [ ] when to leave?
 - [ ] take advanced NumCSE together?
 - [ ] darien gap?
 - [ ] sam what do you do this semester?
+- [ ] after 17.02.2024
+- [ ] where to buy stuff
+- [ ] how doeas sophia survive eth without us
