@@ -39,3 +39,4 @@
 - [ ] when to leave?
 - [ ] take advanced NumCSE together?
 - [ ] darien gap?
+- [ ] sam what do you do this semester?
