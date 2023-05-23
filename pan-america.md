@@ -55,3 +55,4 @@
 - [ ] how doeas sophia survive eth without us
 - [ ] talk about route together
   - biggest attractions?
+- [ ] paul's switch
