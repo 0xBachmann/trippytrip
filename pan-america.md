@@ -38,6 +38,7 @@
   - cheaper 2way and once top to bottom
   - first by train to somewhere else?
   - look at prices with vpn
+  - open flight?
 - [ ] Pass & ID
 - [ ] International Drivers Licence
   - multiple ones!
@@ -52,7 +53,6 @@
 - [ ] sam what do you do this semester?
 - [ ] after 17.02.2024
 - [ ] where to buy stuff
-- [ ] how doeas sophia survive eth without us
 - [ ] talk about route together
   - biggest attractions?
-- [ ] paul's switch
+- [ ] paul and sam's switch
