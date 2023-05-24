@@ -56,3 +56,4 @@
 - [ ] talk about route together
   - biggest attractions?
 - [ ] paul and sam's switch
+- [ ] puerto mont instead of santiago de chile
