@@ -28,6 +28,7 @@
   - hiking boots
   - warm clothes (jacket)
   - big backpack
+  - insect protection
 - [ ] camping gear
   - buy there?
     
