@@ -79,3 +79,4 @@
 - [ ] paul and sam's switch
 - [ ] puerto mont instead of santiago de chile
 - [ ] nice camera ?
+- [ ] alex
