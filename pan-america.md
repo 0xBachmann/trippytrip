@@ -80,3 +80,4 @@
 - [ ] puerto mont instead of santiago de chile
 - [ ] nice camera ?
 - [ ] alex
+- [ ] schwizerische studienstiftung
