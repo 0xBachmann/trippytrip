@@ -81,3 +81,4 @@
 - [ ] nice camera ?
 - [ ] alex
 - [ ] schwizerische studienstiftung
+- [ ] alcohol log book
