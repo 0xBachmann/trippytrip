@@ -32,6 +32,7 @@
   - insect protection
 - [ ] camping gear
   - buy there?
+  - make it hikable
     
     Reddit:
     
@@ -83,3 +84,4 @@
 - [ ] alex
 - [ ] schwizerische studienstiftung
 - [ ] alcohol log book
+- [ ] water filter bottle
