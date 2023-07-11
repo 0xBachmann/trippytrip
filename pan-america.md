@@ -85,3 +85,4 @@
 - [ ] schwizerische studienstiftung
 - [ ] alcohol log book
 - [ ] water filter bottle
+- [ ] rabies
