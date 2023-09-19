@@ -30,6 +30,7 @@
   - warm clothes (jacket)
   - big backpack
   - insect protection
+  - packtesche
 - [ ] camping gear
   - buy there?
   - make it hikable
