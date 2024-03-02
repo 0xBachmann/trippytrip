@@ -10,7 +10,7 @@
 - Jonas arrives March 26, stays Santiago: Car + Language course
 - Paul arrives after April 10. Then: Go south to patagonia, Carretera Austral
 - Back up: Could go  to Argentinia, want to trave through central Chile from Puerto Montt upwards.
-- 
+- Sam arrives at May 1: We will probably be in Patagonia then
 # budget?
 - Car: max 15.000 preferably 10'000, ~3.000 - 5.000 p.p
 - Rough estimate car fuel USD ~4'000
