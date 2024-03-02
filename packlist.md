@@ -5,6 +5,8 @@
 - [ ] Waterproof backpack cover: Protects your gear from rain.
 - [ ] Travel pillow: For added comfort during long journeys.
 - [ ] Travel locks: Secure your belongings in hostels and on the road.
+- [ ] Climbing Helmet
+- [ ] Climbing Shoes
 ## Shoes:
 - [ ] Trekking/Hiking boots
 - [ ] Trail running shoes: Lightweight and versatile for hiking and city exploration.
