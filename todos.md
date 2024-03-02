@@ -1,0 +1,16 @@
+- [ ] Check Travel Insurance
+- [ ] International Drives license,
+- [ ] Check TCS / whatever: Something that helps us in case of car breakdown
+- [ ] Rega
+- [ ] Paul: Medical stuff / First aid
+- [ ] Revolut / Credit card / Way of paying there
+- [ ] Buy Packing backs?
+- [ ] Check existence and validity (of next year) of your passport!
+- [ ] Make a copy of said document
+- [ ] Check Visa
+- [ ] Sam: Rabies
+- [ ] Macchu Picchu: Would need to book e.g. when meet Sam, can then outline our travel around this
+- [ ] Look if other destinations we want to go to and would need to book in advance
+- [ ] Music box
+- [ ] kindle
+- [ ] sam wants to acquire a slackline
