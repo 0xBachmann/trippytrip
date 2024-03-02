@@ -35,8 +35,8 @@
 - [ ] Silk leggins
 - [ ] Swimming clothes / Bikini (Sam)
 ## Camping
-- [ ] Sleeping back
-- [ ] Indoor/Hut sleeping back
+- [ ] Sleeping bag
+- [ ] Indoor/Hut sleeping bag
 - [ ] Mattress
 - [ ] Quick dry Towel
 - [ ] Swiss army knife
