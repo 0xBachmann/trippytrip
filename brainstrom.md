@@ -6,7 +6,6 @@
   -  Spare tire?
   -  TCS/something simiiar?
   - [ ] International drivers license
-  - [ ] 
 # where
 - Jonas arrives March 26, stays Santiago: Car + Language course
 - Paul arrives after April 10. Then: Go south to patagonia, Carretera Austral
@@ -21,3 +20,4 @@
  - [x] Tent: Paul has a tent, will take one for three: Plan to do hostel if we want to have more space, can buy another one there if not enough
  - Camping gear: buy there. Jonas potentiallz cooking set
  - Climbing stuff: Jonas take rope, expresses. Everyone takes helmet, harness, shoes, bag.
+ - [ ] Travel insureance
