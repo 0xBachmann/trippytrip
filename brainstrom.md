@@ -6,6 +6,7 @@
   -  Spare tire?
   -  TCS/something simiiar?
   - [ ] International drivers license
+  - [ ] canisters (water & disel)
 # where
 - Jonas arrives March 26, stays Santiago: Car + Language course
 - Paul arrives after April 10. Then: Go south to patagonia, Carretera Austral
