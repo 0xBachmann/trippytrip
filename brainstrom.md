@@ -1,42 +1,23 @@
-# means of transportation
-- car?
-- public transort
-- hiking
-- bycicle
-
+# Car
+  -  Minivan / van, should easily fit 3 people + sutff, best if we could sleep in it
+  -  Somewhat terrain friendly
+  -  Limit 15'000 USD, preferably ~10'000 USD
+  -  Buy from agency? Can do mechanical inspections, insurance,... (~400USD) e.g. suzisantiago - would do, could giv emore credibility
+  -  Spare tire?
+  -  TCS/something simiiar?
+  - [ ] International drivers license
+  - [ ] 
 # where
-- central asia
-  - starting from here?
-- india
-  - plus nepal, tibet etc
-- southeast asia
-- north africa 
-  - going downwards
-- south america 
-  - leftside up/down
-- scandinavia
-- north amerika
-- central america
-- queer through merica
-  - [pan american highway](https://www.adventurism.tv/blog/2021/7/18/can-you-drive-a-car-from-north-america-to-south-america#:~:text=The%20official%20section%20from%20Laredo,of%2028%20days%20to%20complete.)
-  - [car in chile](https://packtolife.com/how-to-buy-a-car-in-chile/)
-
-# what
-- hiking
-- boulder/climb
-  - need space to transport stuff
-- sightseeing
-- take a course at eth
-- [workaway](https://www.workaway.info/en/hostlist)
-- surf / dive
-
-# how long
-- 6 months
-
-# who to ask as well
+- Jonas arrives March 26, stays Santiago: Car + Language course
+- Paul arrives after April 10. Then: Go south to patagonia, Carretera Austral
+- Back up: Could go  to Argentinia, want to trave through central Chile from Puerto Montt upwards.
 - 
-
-# when
-- spring 24
-
 # budget?
+- Car: max 15.000 preferably 10'000, ~3.000 - 5.000 p.p
+- Rough estimate car fuel USD ~4'000
+- Say ~150 days, ~USD40/day would be around USD 6'000
+- Total USD ~10.000 - 15.000, would hopefully get something from car back
+# stuff to pack or buy
+ - [x] Tent: Paul has a tent, will take one for three: Plan to do hostel if we want to have more space, can buy another one there if not enough
+ - Camping gear: buy there. Jonas potentiallz cooking set
+ - Climbing stuff: Jonas take rope, expresses. Everyone takes helmet, harness, shoes, bag.
