@@ -40,14 +40,14 @@
 - [ ] Mattress
 - [ ] Quick dry Towel
 - [ ] Swiss army knife
-- [ ] Headtorch
+- [ ] Headtorch + batteries
 - [ ] Water bottle(s)
-- [ ] Water treatment
-- [ ] Insect cover (?)
-- [ ] Windproof lighter: Useful for starting fires or lighting stoves.
-- [ ] Microfiber cloth: For cleaning glasses, camera lenses, etc.
-- [ ] Ziploc bags: Keep items organized and protect against moisture.
-- [ ] Travel sewing kit: Repair clothing and gear on the go.
+- [ ] Water treatment stuff
+- [ ] Insect cover net
+- [ ] Lighter
+- [ ] Microfiber cloth
+- [ ] Ziploc bags
+- [ ] Travel sewing kit
 
 ## Necessaires
 - [ ] All medical stuff: Paul
@@ -56,6 +56,9 @@
 - [ ] Toothbrush
 - [ ] Toothpaste
 - [ ] Shower gel
+- [ ] Desinfectant
+- [ ] Hard soap
+- [ ] Travel cloth wash thing
 - [ ] Deodorant
 - [ ] Nail scissor 
 - [ ] Sunscreen
@@ -64,8 +67,9 @@
 
 ## Electronics:
 - [ ] Camera: Jonas
-- [ ] Power bank
+- [ ] Power bank (maybe big one for car)
 - [ ] Charging unit
+- [ ] Sam: Polaroid
 ## Essentials:
 - [ ] Passport
 - [ ] Copy of passport
@@ -76,4 +80,5 @@
 - [ ] Pen / paper
 - [ ] Travel guidebooks
 - [ ] Spanish phraseook
-
+- [ ] Fingerboard
+- [ ] Laptop for nice simulations
