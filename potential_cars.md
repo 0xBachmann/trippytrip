@@ -1,2 +1,4 @@
 - [Mahindra Scorpio 2017](https://www.yapo.cl/vehiculos/mahindra-scorpio-2017-recibo-vehiculo_89104408)
 - [red minivan zna](https://www.yapo.cl/vehiculos/mini-van-modelo-succes_88344836)
+- [dongfeng](https://www.yapo.cl/vehiculos/dongfeng-van-succe-2012_88903563)
+- [maxus](https://www.yapo.cl/vehiculos/maxus-g10-cargo-van-19-diesel-2020_89010171)
