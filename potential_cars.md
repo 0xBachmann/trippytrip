@@ -2,3 +2,4 @@
 - [red minivan zna](https://www.yapo.cl/vehiculos/mini-van-modelo-succes_88344836)
 - [dongfeng](https://www.yapo.cl/vehiculos/dongfeng-van-succe-2012_88903563)
 - [maxus](https://www.yapo.cl/vehiculos/maxus-g10-cargo-van-19-diesel-2020_89010171)
+- [non von big](https://auto.mercadolibre.cl/MLC-2279529102-ssangyong-xlv-2017-aut-diesel-_JM#position=11&search_layout=stack&type=item&tracking_id=20be6847-4e9c-40f1-bba1-02b57898319c)
